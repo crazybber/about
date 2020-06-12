@@ -23,7 +23,7 @@ Know my power
 
 ---
 ::fa-star::
-## [My Futures](#slice=4)
+## [My Futures](#slide=4)
 I have a great future
 :::
 
