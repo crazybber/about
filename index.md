@@ -13,17 +13,16 @@ plugins:
 
 :::flexblock {.specs}
 ::fa-star::
-## [Who I AM](#slide=2)
+## [Who I am](#slide=2)
 Introduce myself.
 
 ---
 ::fa-star::
-## [Wat I am good at](#slide=4)
+## [What I'm good at](#slide=3)
 Know my power
-
 ---
 ::fa-star::
-## [Futures Plan]()
+## [My Futures](#slice=4)
 I have a great future
 :::
 
@@ -53,10 +52,10 @@ I have a great future
 ### What I am good at
 ---
 
-* Architecture Improvement{.animated.fadeInUp}
+* Architecture & Improvement{.animated.fadeInUp}
 * RD Development Flow {.animated.fadeInUp.delay-400}
 * Agile Scrum Optimization {.animated.fadeInUp.delay-800}
-* Building RD Organization Rule {.animated.fadeInUp.delay-1200}
+* Building RD Organization & Rule {.animated.fadeInUp.delay-1200}
 * Innovation Motivation {.animated.fadeInUp.delay-1600}
 
 <slide class="bg-black aligncenter" image="https://source.unsplash.com/n9WPPWiPPJw/ .anim">
