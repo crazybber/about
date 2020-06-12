@@ -9,7 +9,7 @@ plugins:
 
 <slide image="https://avatars1.githubusercontent.com/u/3401462 .right">
 :::{.content-left}
-###  Here I AM
+###  ![logo](https://avatars2.githubusercontent.com/u/3401462?s=40){.avatar-40} Here I AM
 
 :::flexblock {.specs}
 ::fa-star::
@@ -28,13 +28,10 @@ I have a great future
 :::
 
 :::footer
-[Go To Github](https://github.com/crazybber){.button.ghost} [Go to Gitee](https://gitee.com/crazybber){.button.ghost}{.alignleft}
+[Go To Github](https://github.com/crazybber){.button.ghost}  [Go to Gitee](https://gitee.com/crazybber){.button.ghost}{.alignleft}
 [:fa-github: @crazybber](https://github.com/crazybber){.alignright}
 :::
 
-:::header
- ![logo](https://avatars2.githubusercontent.com/u/3401462?s=40){.avatar-40}
-:::
 
 <slide image="https://source.unsplash.com/yssUhIxbUZA/">
 
