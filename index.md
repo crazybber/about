@@ -1,5 +1,5 @@
-title: New Trip In TreeLab
-speaker: Eamon
+title: github.com/crazybber
+speaker: Edward
 url:  github/crazybber;gitee/crazybber
 
 plugins:
@@ -32,7 +32,7 @@ I have a great future
 :::
 
 :::header
- ![loogo](https://avatars2.githubusercontent.com/u/3401462?s=40){.avatar-40}[Home](https://Arch.run)  [About](https://Arch.run)
+ ![logo](https://avatars2.githubusercontent.com/u/3401462?s=40){.avatar-40}[Github](https://github.com/crazybber)  [gitee](https://gitee.com/crazybber)
 :::
 
 <slide image="https://source.unsplash.com/yssUhIxbUZA/">
