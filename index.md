@@ -15,7 +15,6 @@ plugins:
 ::fa-star::
 ## [Who I am](#slide=2)
 Introduce myself.
-
 ---
 ::fa-star::
 ## [What I'm good at](#slide=3)
@@ -31,7 +30,7 @@ I have a great future
 :::
 
 :::header
- ![logo](https://avatars2.githubusercontent.com/u/3401462?s=40){.avatar-40}[Go To Github](https://github.com/crazybber)  [Go to Gitee](https://gitee.com/crazybber)
+ ![logo](https://avatars2.githubusercontent.com/u/3401462?s=40){.avatar-40} [Go To Github](https://github.com/crazybber){.button.ghost} [Go to Gitee](https://gitee.com/crazybber){.button.ghost}
 :::
 
 <slide image="https://source.unsplash.com/yssUhIxbUZA/">
