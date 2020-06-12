@@ -9,29 +9,33 @@ plugins:
 
 <slide image="https://avatars1.githubusercontent.com/u/3401462 .right">
 :::{.content-left}
-###  ![logo](https://avatars2.githubusercontent.com/u/3401462?s=40){.avatar-40} Here I AM
+####  ![logo](https://avatars2.githubusercontent.com/u/3401462?s=40){.avatar-40} Here I AM
 
 :::flexblock {.specs}
 ::fa-star::
-## [Who I am](#slide=2)
+###### [Who I am](#slide=2)
 Introduce myself.
 
 ---
 ::fa-star::
-## [What I'm good at](#slide=3)
+###### [What I'm good at](#slide=3)
 Know my power
 
 ---
 ::fa-star::
-## [My Futures](#slide=4)
+###### [My Target](#slide=4)
 I have a great future
+
+---
+::fa-star::
+###### [Best Wish](#slide=5)
+Wish the times
 :::
 
-:::footer
-[Go To Github](https://github.com/crazybber){.button.ghost} [Go to Gitee](https://gitee.com/crazybber){.button.ghost}
-[:fa-github: @crazybber](https://github.com/crazybber){.alignright}
-:::
 
+:::header
+[:fa-github: @crazybber](https://github.com/crazybber/about) :[Go To Github](https://github.com/crazybber){.button.ghost} [Go to Gitee](https://gitee.com/crazybber){.button.ghost}:{.alignright}
+:::
 
 <slide image="https://source.unsplash.com/yssUhIxbUZA/">
 
@@ -58,6 +62,17 @@ I have a great future
 * Innovation Motivation {.animated.fadeInUp.delay-1600}
 
 <slide class="bg-black aligncenter" image="https://source.unsplash.com/n9WPPWiPPJw/ .anim">
-## Star and Space {.text-data}
+## Star & Space {.text-data}
 `I have big dream :flying in cosmos`
+
+<slide>
+:::card {.quote}
+
+
+
+![image](https://webslides.tv/static/images/davinci.png)
+
+---
+> “This is the best time,in the flooding of time, we meet each other.”
+> ==Edward in Github==
 
