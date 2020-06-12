@@ -1,0 +1,65 @@
+title: New Trip In TreeLab
+speaker: Eamon
+url:  github/crazybber;gitee/crazybber
+
+plugins:
+    - echarts: {theme: infographic}
+    - mermaid: {theme: forest}
+
+
+<slide image="https://avatars1.githubusercontent.com/u/3401462 .right">
+:::{.content-left}
+###  Here I AM
+
+:::flexblock {.specs}
+::fa-star::
+## [Who I AM](#slide=2)
+Introduce myself.
+
+---
+::fa-star::
+## [Wat I am good at](#slide=4)
+Know my power
+
+---
+::fa-star::
+## [Futures Plan]()
+I have a great future
+:::
+
+:::footer
+[:fa-github: @crazybber](https://github.com/crazybber){.alignright}
+:::
+
+:::header
+ ![loogo](https://avatars2.githubusercontent.com/u/3401462?s=40){.avatar-40}[Home](https://Arch.run)  [About](https://Arch.run)
+:::
+
+<slide image="https://source.unsplash.com/yssUhIxbUZA/">
+
+::: div {.content-left.bg-trans-dark.fadeInUp}
+#### Who I AM {.animated.fadeInUp}
+
+---
+
+#### **An Open Souces Author** {.animated.delay-400.fadeInUp}
+
+#### A Developer & Architect {.animated.delay-800.fadeInUp}
+
+:::
+
+
+<slide class="bg-gradient-r" :class=" size-40 aligncenter" image="https://cn.bing.com/az/hprichbg/rb/WinterLynx_ZH-CN7158207296_1920x1080.jpg .dark">
+### What I am good at
+---
+
+* Architecture Improvement{.animated.fadeInUp}
+* RD Development Flow {.animated.fadeInUp.delay-400}
+* Agile Scrum Optimization {.animated.fadeInUp.delay-800}
+* Building RD Organization Rule {.animated.fadeInUp.delay-1200}
+* Innovation Motivation {.animated.fadeInUp.delay-1600}
+
+<slide class="bg-black aligncenter" image="https://source.unsplash.com/n9WPPWiPPJw/ .anim">
+## Star and Space {.text-data}
+`I have big dream :flying in cosmos`
+
