@@ -1,7 +1,5 @@
 ---
-title: Some words to speak
-speaker: Edward
-Target: New Trip Plan
+title: Demo yourself
 ---
 
 
