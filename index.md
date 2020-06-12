@@ -28,7 +28,7 @@ I have a great future
 :::
 
 :::footer
-[Go To Github](https://github.com/crazybber){.button.ghost}  [Go to Gitee](https://gitee.com/crazybber){.button.ghost}{.alignleft}
+[Go To Github](https://github.com/crazybber){.button.ghost} [Go to Gitee](https://gitee.com/crazybber){.button.ghost}
 [:fa-github: @crazybber](https://github.com/crazybber){.alignright}
 :::
 
