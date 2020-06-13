@@ -7,7 +7,14 @@ plugins:
     - mermaid: {theme: forest}
 
 
-<slide image="https://avatars1.githubusercontent.com/u/3401462 .right">
+<slide :class="size-80" image="https://avatars1.githubusercontent.com/u/3401462 .right">
+
+
+:::header
+[:fa-github: @crazybber](https://github.com/crazybber/about) :[Go To Github](https://github.com/crazybber){.button.ghost} [Go to Gitee](https://gitee.com/crazybber){.button.ghost}:{.alignright}
+:::
+
+
 :::{.content-left}
 ####  ![logo](https://avatars2.githubusercontent.com/u/3401462?s=40){.avatar-40} Here I AM
 
@@ -33,9 +40,6 @@ Wish the times
 :::
 
 
-:::header
-[:fa-github: @crazybber](https://github.com/crazybber/about) :[Go To Github](https://github.com/crazybber){.button.ghost} [Go to Gitee](https://gitee.com/crazybber){.button.ghost}:{.alignright}
-:::
 
 <slide image="https://source.unsplash.com/yssUhIxbUZA/">
 
@@ -44,7 +48,7 @@ Wish the times
 
 ---
 
-#### **An Open Souces Author** {.animated.delay-400.fadeInUp}
+#### **[An Open Souces Author](/repos.html)** {.animated.delay-400.fadeInUp}
 
 #### A Developer & Architect {.animated.delay-800.fadeInUp}
 
@@ -68,11 +72,20 @@ Wish the times
 <slide>
 :::card {.quote}
 
-
-
 ![image](https://webslides.tv/static/images/davinci.png)
 
 ---
 > “This is the best time,in the flooding of time, we meet each other.”
 > ==Edward in Github==
 
+:::
+
+<slide class="bg-primary" :class="size-60 frame">
+## Open Source List  {.text-serif.aligncenter}
+
+\* \* \* {.text-symbols}
+
+* [:fa-code: micro open community - a golang based Micro Service Community ](https://github.com/micro-community) 
+* [:fa-code: GB28181  - an GB28181 Solution with crossing platform bility](https://github.com/GB28181)
+* [:fa-code: go pattern examples - implement for awesome go patterns ](https://github.com/crazybber/go-pattern-examples)
+* [:fa-code: go-to-more](repos.html)
