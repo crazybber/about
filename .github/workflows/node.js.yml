@@ -37,6 +37,7 @@ jobs:
        npm install -g nodeppt
        rm -rf dist
        nodeppt build index.md
+       nodeppt build repos.md
     - name: Deploy to Github Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
