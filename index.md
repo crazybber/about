@@ -7,8 +7,7 @@ plugins:
     - mermaid: {theme: forest}
 
 
-<slide :class="size-80" image="https://avatars1.githubusercontent.com/u/3401462 .right">
-
+<slide :class="size-80">
 
 :::header
 [:fa-github: @crazybber](https://github.com/crazybber/about) :[Go To Github](https://github.com/crazybber){.button.ghost} [Go to Gitee](https://gitee.com/crazybber){.button.ghost}:{.alignright}
@@ -37,8 +36,22 @@ I have a great future
 ::fa-star::
 ###### [Best Wish](#slide=5)
 Wish the times
+
 :::
 
+:::{.content-right}
+
+---
+
+action indicator
+
+-   Page\: ↑/↓/←/→ Space Home End
+-   Fullscreen\: F
+-   Overview\: -/+
+-   Grid Background\: Enter
+-   Rolling\: Mouse Wheel
+
+:::
 
 
 <slide image="https://source.unsplash.com/yssUhIxbUZA/">
