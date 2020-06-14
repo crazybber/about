@@ -14,4 +14,4 @@ plugins:
 文章目录
 
 - [Introduction](README.md)
-  - [dynamic-resume](https://crazybber.github.io/animating-resume)
+  - [dynamic-resume-template](https://github.com/crazybber/dynamic-introduce)
