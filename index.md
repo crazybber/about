@@ -25,7 +25,7 @@ Introduce myself.
 ---
 ::fa-star::
 ###### [What I'm good at](#slide=3)
-Know my power
+Know what I can do.
 
 ---
 ::fa-star::
@@ -53,6 +53,11 @@ action indicator
 
 :::
 
+links\:
+<br/>
+[https\://github.com/micro-community](https://github.com/micro-community)
+<br/>
+[https://kalasearch.cn](https://kalasearch.cn)
 
 <slide image="https://source.unsplash.com/yssUhIxbUZA/">
 
@@ -74,9 +79,10 @@ action indicator
 
 * Architecture & Improvement{.animated.fadeInUp}
 * RD Development Flow {.animated.fadeInUp.delay-400}
-* Agile Scrum Optimization {.animated.fadeInUp.delay-800}
+* Agile & Scrum {.animated.fadeInUp.delay-800}
 * Building RD Organization & Rule {.animated.fadeInUp.delay-1200}
 * Innovation Motivation {.animated.fadeInUp.delay-1600}
+* Power Product & Business {.animated.fadeInUp.delay-2000}
 
 <slide class="bg-black aligncenter" image="https://source.unsplash.com/n9WPPWiPPJw/ .anim">
 ## Star & Space {.text-data}
